@@ -91,6 +91,9 @@
 
 - [蓝海卓越计费管理系统 RCE](./RCE/lanhai_rce)
 
+#### ZeroShell
+
+- [ZeroShell CVE-2019-12725RCE](./RCE/CVE-2019-12725)
 
 ## 未授权访问
 
