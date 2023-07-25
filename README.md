@@ -49,6 +49,8 @@
 
 ## sql注入
 
+### 漏洞列表
+
 #### CmsEasy
 
 - [CmsEasy sql注入](./Sqlinject/CmsEasy_sql)
@@ -75,8 +77,19 @@
 
 ## RCE命令执行
 
+### 漏洞列表
 
 ## 未授权访问
+
+### 漏洞列表
+
+#### H5S CONSOLE
+
+- [零视技术(上海)有限公司H5S CONSOLE CNVD-2020-67113未授权访问](./unauthorized/CNVD-2020-67113)
+
+#### druid
+
+- [druid CVE-2021-34045未授权](./unauthorized/CVE-2021-34045)
 
 ## 免责声明
 
