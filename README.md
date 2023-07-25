@@ -61,7 +61,7 @@
 
 #### Jeecg-Boot
 
-- [jmreport/qurestSql sql注入](./Sqlinject/CVE-2023-1454)
+- [jmreport/qurestSql CVE-2023-1454 sql注入](./Sqlinject/CVE-2023-1454)
 
 #### Doccms
 
