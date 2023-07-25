@@ -1,14 +1,12 @@
 ## 文件上传集合
 
-由于致远OA旧版本某些接口存在未授权访问，以及部分函数存在过滤不足，攻击者通过构造恶意请求，可在无需登录的情况下上传恶意脚本文件，从而控制服务器。致远OA官方已针对该漏洞提供补丁。
-
-  致远OA是一套办公协同软件。
+可上传webshell
 
 ### 漏洞列表
 
 #### 致远oa
 
--[seeyon /autoinstall.do.css/..;/ajax.do文件上传](./seeyon-oa-exp)
+- [seeyon /autoinstall.do.css/..;/ajax.do文件上传](./seeyon-oa-exp)
 
 
 ## 免责声明
