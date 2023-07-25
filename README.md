@@ -13,6 +13,13 @@
 
 - [会捷通云视讯 /fileDownload文件读取](./FileRead/会捷通云视讯任意文件读取)
 
+#### FLIR-AX8
+
+- [FLIR-AX8 /download.php文件读取](./FileRead/FLIR-AX8_fileread)
+
+#### Jellyfin
+
+- [Jellyfin /Audio/1/hls/文件读取](./FileRead/CVE-2021-21402Jellyfin任意文件读)
 
 ## 文件上传
 
