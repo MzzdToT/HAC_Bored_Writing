@@ -11,7 +11,7 @@
 
 #### 致远oa
 
-- [seeyon /autoinstall.do.css/..;/ajax.do文件上传](./seeyon-oa-exp)
+- [seeyon /autoinstall.do.css/..;/ajax.do文件上传](./Fileupload/seeyon-oa-exp)
 
 
 ## 免责声明
