@@ -21,6 +21,7 @@
 
 - [Jellyfin /Audio/1/hls/文件读取](./FileRead/CVE-2021-21402Jellyfin任意文件读)
 
+
 ## 文件上传
 
 可上传webshell，获取服务器权限
@@ -30,6 +31,14 @@
 #### 致远oa
 
 - [seeyon /autoinstall.do.css/..;/ajax.do文件上传](./Fileupload/seeyon-oa-exp)
+
+#### 用友时空KSOA
+
+- [用友时空KSOA /com.sksoft.bill.ImageUpload文件上传](./Fileupload/KSOA_upload)
+
+#### 泛微
+
+- [泛微E-Office CNVD-2021-49104文件上传](./Fileupload/CNVD-2021-49104)
 
 
 ## 免责声明
