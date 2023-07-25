@@ -79,6 +79,10 @@
 
 - [源天OA GetDataAction sql注入](./Sqlinject/yuantian_sql)
 
+#### 用友oa U8
+
+- [用友 U8 OA test.jsp sql注入](./Sqlinject/yongyouU8_sql-main)
+
 ## RCE命令执行
 
 ### 漏洞列表
