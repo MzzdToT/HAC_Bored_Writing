@@ -29,6 +29,10 @@
 
 - [Grafana CVE-2021-43798文件读取](./FileRead/Grafana_fileread)
 
+#### 金山v8
+
+- [金山 V8 终端安全系统文件下载](./FileRead/jinshanv8_fileread)
+
 ## 文件上传
 
 可上传webshell，获取服务器权限
