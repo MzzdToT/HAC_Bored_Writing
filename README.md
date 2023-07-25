@@ -19,7 +19,7 @@
 
 #### Jellyfin
 
-- [Jellyfin /Audio/1/hls/文件读取](./FileRead/CVE-2021-21402Jellyfin任意文件读)
+- [Jellyfin CVE-2021-21402文件读取](./FileRead/CVE-2021-21402Jellyfin任意文件读)
 
 #### ShopXO
 
