@@ -21,6 +21,10 @@
 
 - [Jellyfin /Audio/1/hls/文件读取](./FileRead/CVE-2021-21402Jellyfin任意文件读)
 
+#### ShopXO
+
+- [ShopXO CNVD-2021-15822文件读取](./FileRead/CNVD-2021-15822)
+
 
 ## 文件上传
 
