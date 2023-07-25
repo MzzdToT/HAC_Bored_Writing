@@ -47,14 +47,36 @@
 
 - [泛微E-Office CNVD-2021-49104文件上传](./Fileupload/CNVD-2021-49104)
 
-## 未授权访问
+## sql注入
 
+#### CmsEasy
 
+- [CmsEasy sql注入](./Sqlinject/CmsEasy_sql)
+
+#### Jeecg-Boot
+
+- [jmreport/qurestSql sql注入](./Sqlinject/CVE-2023-1454)
+
+#### Doccms
+
+- [Doccms keyword sql注入](./Sqlinject/Doccms-sql-injection)
+
+#### 红帆OA
+
+- [红帆OA iOffice.net udfmr.asmx sql注入](./Sqlinject/iOffice_sqlscan)
+
+#### 泛微
+
+- [泛微e-cology QVD-2023-5012 sql注入](./Sqlinject/QVD-2023-5012)
+
+#### 源天OA
+
+- [源天OA GetDataAction sql注入](./Sqlinject/yuantian_sql)
 
 ## RCE命令执行
 
 
-## sql注入
+## 未授权访问
 
 ## 免责声明
 
