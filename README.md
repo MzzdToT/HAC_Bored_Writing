@@ -25,6 +25,9 @@
 
 - [ShopXO CNVD-2021-15822文件读取](./FileRead/CNVD-2021-15822)
 
+#### Grafana
+
+- [Grafana CVE-2021-43798文件读取](./FileRead/Grafana_fileread)
 
 ## 文件上传
 
@@ -44,6 +47,14 @@
 
 - [泛微E-Office CNVD-2021-49104文件上传](./Fileupload/CNVD-2021-49104)
 
+## 未授权访问
+
+
+
+## RCE命令执行
+
+
+## sql注入
 
 ## 免责声明
 
