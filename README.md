@@ -127,6 +127,10 @@
 
 - [华夏erp getAllList敏感信息泄露](./unauthorized/huaxia_erp_scan)
 
+**Jupyter-Notebook**
+
+- [Jupyter Notebook terminals未授权访问](./unauthorized/Jupyter-Notebook)
+
 ## 免责声明
 
 由于传播、利用此文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。
