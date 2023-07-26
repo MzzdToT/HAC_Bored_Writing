@@ -7,10 +7,9 @@ python3 nginxWebUI_rce.py -u http://127.0.0.1:1111 单个url测试
 
 python3 nginxWebUI_rce.py -f url.txt 批量检测
 
-![](./poc.png)
+![](./poc.jpg)
 
-## exp利用
-![](./exp.png)
+![](./exp.jpg)
 
 ## 免责声明
 
