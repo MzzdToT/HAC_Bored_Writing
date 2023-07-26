@@ -1,20 +1,43 @@
 # HAC_Bored_Writing
 
-各种未授权、RCE、文件上传、sql注入、信息泄露漏洞批量扫描poc、exp,该项目长期更新,目前是把之前写的整合在一起,后续新增会在最下边加一个时间线，想看最新的poc、exp可以根据时间线来选择
-
-## 2021
-
-- [ShopXO CNVD-2021-15822文件读取](./FileRead/CNVD-2021-15822)
-- [Jellyfin CVE-2021-21402文件读取](./FileRead/CVE-2021-21402Jellyfin任意文件读)
-- [Grafana CVE-2021-43798文件读取](./FileRead/Grafana_fileread)
-- [泛微E-Office CNVD-2021-49104文件上传](./Fileupload/CNVD-2021-49104)
-- [druid CVE-2021-34045未授权](./unauthorized/CVE-2021-34045)
+各种未授权、RCE、文件上传、sql注入、信息泄露漏洞批量扫描poc、exp,跟踪最新漏洞实时更新,目前是把之前写的整合在一起,后续新增会在最下边加一个时间线，想看最新的poc、exp可以根据时间线来选择
 
 ## 2023
 
 - [jmreport/qurestSql CVE-2023-1454 sql注入](./Sqlinject/CVE-2023-1454)
 - [泛微e-cology QVD-2023-5012 sql注入](./Sqlinject/QVD-2023-5012)
 - [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
+- [用友时空KSOA /com.sksoft.bill.ImageUpload文件上传](./Fileupload/KSOA_upload)
+
+## 2022
+
+- [金山 V8 终端安全系统文件下载](./FileRead/jinshanv8_fileread)
+- [CmsEasy sql注入](./Sqlinject/CmsEasy_sql)
+- [Doccms keyword sql注入](./Sqlinject/Doccms-sql-injection)
+- [蓝海卓越计费管理系统 RCE](./RCE/lanhai_rce)
+
+
+## 2021
+
+- [ShopXO CNVD-2021-15822文件读取](./FileRead/CNVD-2021-15822)
+- [Jellyfin CVE-2021-21402文件读取](./FileRead/CVE-2021-21402Jellyfin任意文件读)
+- [FLIR-AX8 CNVD-2021-39018/download.php文件读取](./FileRead/FLIR-AX8_fileread)
+- [会捷通云视讯 /fileDownload文件读取](./FileRead/会捷通云视讯任意文件读取)
+- [Grafana CVE-2021-43798文件读取](./FileRead/Grafana_fileread)
+- [泛微E-Office CNVD-2021-49104文件上传](./Fileupload/CNVD-2021-49104)
+- [druid CVE-2021-34045未授权](./unauthorized/CVE-2021-34045)
+- [致远oaCNVD-2021-01627文件上传](./Fileupload/seeyon-oa-exp)
+- [智慧校园管理系统 注册页面文件上传](./Fileupload/zhihuixiaoyuan_upload)
+- [用友oa U8 test.jsp sql注入](./Sqlinject/yongyouU8_sql-main)
+
+
+## 更早之前
+
+- [红帆OA iOffice.net udfmr.asmx sql注入](./Sqlinject/iOffice_sqlscan)
+- [ZeroShell CVE-2019-12725RCE](./RCE/CVE-2019-12725)
+- [源天OA GetDataAction sql注入](./Sqlinject/yuantian_sql)
+- [零视技术(上海)有限公司H5S CONSOLE CNVD-2020-67113未授权访问](./unauthorized/CNVD-2020-67113)
+- [Jupyter Notebook terminals未授权访问](./unauthorized/Jupyter-Notebook)
 
 
 ## 文件读取
@@ -27,7 +50,7 @@
 
 #### FLIR-AX8
 
-- [FLIR-AX8 /download.php文件读取](./FileRead/FLIR-AX8_fileread)
+- [FLIR-AX8 CNVD-2021-39018/download.php文件读取](./FileRead/FLIR-AX8_fileread)
 
 #### Jellyfin
 
@@ -95,7 +118,7 @@
 
 #### 用友oa U8
 
-- [用友 U8 OA test.jsp sql注入](./Sqlinject/yongyouU8_sql-main)
+- [用友oa U8 test.jsp sql注入](./Sqlinject/yongyouU8_sql-main)
 
 ## RCE命令执行
 
