@@ -33,6 +33,7 @@
 
 ## 更早之前
 
+- [Hadoop_未授权访问反弹shell](./unauthorized/hadoop_getshell)
 - [银澎云计算 好视通视频会议系统CNVD-2020-62437](./FileRead/CNVD-2020-62437)
 - [零视技术(上海)有限公司H5S CONSOLE CNVD-2020-67113未授权访问](./unauthorized/CNVD-2020-67113)
 - [红帆OA iOffice.net udfmr.asmx sql注入](./Sqlinject/iOffice_sqlscan)
@@ -183,6 +184,10 @@
 #### ApacheFlink
 
 - [ApacheFlink_未授权访问上传jar包getshell](./unauthorized/ApacheFlink_poc)
+
+#### Hadoop
+
+- [Hadoop_未授权访问反弹shell](./unauthorized/hadoop_getshell)
 
 ## 免责声明
 
