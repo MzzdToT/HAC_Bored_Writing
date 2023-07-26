@@ -7,8 +7,6 @@
 
 任意文件读取，可读取服务器文件内容
 
-### 漏洞列表
-
 #### 会捷通云视讯
 
 - [会捷通云视讯 /fileDownload文件读取](./FileRead/会捷通云视讯任意文件读取)
@@ -37,8 +35,6 @@
 
 可上传webshell，获取服务器权限
 
-### 漏洞列表
-
 #### 致远oa
 
 - [seeyon /autoinstall.do.css/..;/ajax.do文件上传](./Fileupload/seeyon-oa-exp)
@@ -54,8 +50,6 @@
 ## sql注入
 
 通过SQL注入漏洞构造SQL注入语句，对服务器端返回特定的错误信息来获取有利用价值的信息，甚至可篡改数据库中的内容并进行提权
-
-### 漏洞列表
 
 #### CmsEasy
 
@@ -86,8 +80,6 @@
 - [用友 U8 OA test.jsp sql注入](./Sqlinject/yongyouU8_sql-main)
 
 ## RCE命令执行
-
-### 漏洞列表
 
 #### 学习管理系统Chamilo
 
