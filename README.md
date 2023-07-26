@@ -97,8 +97,6 @@
 
 未授权就可访问指定资源
 
-### 漏洞列表
-
 #### H5S CONSOLE
 
 - [零视技术(上海)有限公司H5S CONSOLE CNVD-2020-67113未授权访问](./unauthorized/CNVD-2020-67113)
