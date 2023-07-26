@@ -2,6 +2,20 @@
 
 各种未授权、RCE、文件上传、sql注入、信息泄露漏洞批量扫描poc、exp,该项目长期更新,目前是把之前写的整合在一起,后续新增会在最下边加一个时间线，想看最新的poc、exp可以根据时间线来选择
 
+## 2021
+
+- [ShopXO CNVD-2021-15822文件读取](./FileRead/CNVD-2021-15822)
+- [Jellyfin CVE-2021-21402文件读取](./FileRead/CVE-2021-21402Jellyfin任意文件读)
+- [Grafana CVE-2021-43798文件读取](./FileRead/Grafana_fileread)
+- [泛微E-Office CNVD-2021-49104文件上传](./Fileupload/CNVD-2021-49104)
+- [druid CVE-2021-34045未授权](./unauthorized/CVE-2021-34045)
+
+## 2023
+
+- [jmreport/qurestSql CVE-2023-1454 sql注入](./Sqlinject/CVE-2023-1454)
+- [泛微e-cology QVD-2023-5012 sql注入](./Sqlinject/QVD-2023-5012)
+- [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
+
 
 ## 文件读取
 
