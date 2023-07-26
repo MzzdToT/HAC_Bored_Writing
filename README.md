@@ -93,6 +93,14 @@
 
 - [ZeroShell CVE-2019-12725RCE](./RCE/CVE-2019-12725)
 
+#### 浪潮
+
+- [浪潮ClusterEngineV4.0 CVE-2020-21224 RCE](./RCE/CVE-2020-21224)
+
+#### TamronOS IPTV系统
+
+- [TamronOS IPTV系统 RCE](./RCE/TamronOS-IPTV-RCE)
+
 ## 未授权访问
 
 未授权就可访问指定资源
