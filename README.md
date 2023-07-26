@@ -39,6 +39,8 @@
 - [零视技术(上海)有限公司H5S CONSOLE CNVD-2020-67113未授权访问](./unauthorized/CNVD-2020-67113)
 - [Jupyter Notebook terminals未授权访问](./unauthorized/Jupyter-Notebook)
 - [ApacheFlink_未授权访问上传jar包getshell](./unauthorized/ApacheFlink_poc)
+- [ThinkCMF 文件包含getshell](./Fileupload/ThinkCMF_getshell_exp)
+
 
 ## 文件读取
 
@@ -87,6 +89,11 @@
 #### 智慧校园管理系统
 
 - [智慧校园管理系统 注册页面文件上传](./Fileupload/zhihuixiaoyuan_upload)
+
+#### ThinkCMF
+
+- [ThinkCMF 文件包含getshell](./Fileupload/ThinkCMF_getshell_exp)
+
 
 ## sql注入
 
