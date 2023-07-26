@@ -22,10 +22,11 @@
 - [ShopXO CNVD-2021-15822文件读取](./FileRead/CNVD-2021-15822)
 - [Jellyfin CVE-2021-21402文件读取](./FileRead/CVE-2021-21402Jellyfin任意文件读)
 - [FLIR-AX8 CNVD-2021-39018/download.php文件读取](./FileRead/FLIR-AX8_fileread)
+- [Apache_solr任意文件读取](./FileRead/Apache_solr_fileread)
+- [druid CVE-2021-34045未授权](./unauthorized/CVE-2021-34045)
 - [会捷通云视讯 /fileDownload文件读取](./FileRead/会捷通云视讯任意文件读取)
 - [Grafana CVE-2021-43798文件读取](./FileRead/Grafana_fileread)
 - [泛微E-Office CNVD-2021-49104文件上传](./Fileupload/CNVD-2021-49104)
-- [druid CVE-2021-34045未授权](./unauthorized/CVE-2021-34045)
 - [致远oaCNVD-2021-01627文件上传](./Fileupload/seeyon-oa-exp)
 - [智慧校园管理系统 注册页面文件上传](./Fileupload/zhihuixiaoyuan_upload)
 - [用友oa U8 test.jsp sql注入](./Sqlinject/yongyouU8_sql-main)
@@ -59,6 +60,10 @@
 #### Jellyfin
 
 - [Jellyfin CVE-2021-21402文件读取](./FileRead/CVE-2021-21402Jellyfin任意文件读)
+
+#### Apache_solr
+
+- [Apache_solr任意文件读取](./FileRead/Apache_solr_fileread)
 
 #### ShopXO
 
