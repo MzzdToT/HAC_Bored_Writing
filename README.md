@@ -8,6 +8,7 @@
 - [泛微e-cology QVD-2023-5012 sql注入](./Sqlinject/QVD-2023-5012)
 - [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
 - [用友时空KSOA /com.sksoft.bill.ImageUpload文件上传](./Fileupload/KSOA_upload)
+- [Openfire CVE-2023-32315 未授权添加用户](./unauthorized/CVE-2023-32315)
 
 ## 2022
 
@@ -193,6 +194,11 @@
 #### Hadoop
 
 - [Hadoop_未授权访问反弹shell](./unauthorized/hadoop_getshell)
+
+#### Openfire
+
+- [Openfire CVE-2023-32315 未授权添加用户](./unauthorized/CVE-2023-32315)
+
 
 ## 免责声明
 
