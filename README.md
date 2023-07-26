@@ -6,6 +6,7 @@
 
 - [jmreport/qurestSql CVE-2023-1454 sql注入](./Sqlinject/CVE-2023-1454)
 - [泛微e-cology QVD-2023-5012 sql注入](./Sqlinject/QVD-2023-5012)
+- [泛微e-Office CVE-2023-2648 任意文件上传](./Sqlinject/cve-2023-2648)
 - [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
 - [用友时空KSOA /com.sksoft.bill.ImageUpload文件上传](./Fileupload/KSOA_upload)
 - [Openfire CVE-2023-32315 未授权添加用户](./unauthorized/CVE-2023-32315)
@@ -97,6 +98,8 @@
 #### 泛微
 
 - [泛微E-Office CNVD-2021-49104文件上传](./Fileupload/CNVD-2021-49104)
+- [泛微e-Office CVE-2023-2648 任意文件上传](./Sqlinject/cve-2023-2648)
+
 
 #### 智慧校园管理系统
 
@@ -105,7 +108,6 @@
 #### ThinkCMF
 
 - [ThinkCMF 文件包含getshell](./Fileupload/ThinkCMF_getshell_exp)
-
 
 ## sql注入
 
