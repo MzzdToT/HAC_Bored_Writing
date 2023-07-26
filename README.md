@@ -47,6 +47,10 @@
 
 - [泛微E-Office CNVD-2021-49104文件上传](./Fileupload/CNVD-2021-49104)
 
+#### 智慧校园管理系统
+
+- [智慧校园管理系统 注册页面文件上传](./Fileupload/zhihuixiaoyuan_upload)
+
 ## sql注入
 
 通过SQL注入漏洞构造SQL注入语句，对服务器端返回特定的错误信息来获取有利用价值的信息，甚至可篡改数据库中的内容并进行提权
@@ -80,6 +84,8 @@
 - [用友 U8 OA test.jsp sql注入](./Sqlinject/yongyouU8_sql-main)
 
 ## RCE命令执行
+
+攻击者可以执行任意系统命令
 
 #### 学习管理系统Chamilo
 
