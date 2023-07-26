@@ -111,6 +111,14 @@
 
 - [druid CVE-2021-34045未授权](./unauthorized/CVE-2021-34045)
 
+**致远oa**
+
+- [致远oa webmail.do文件泄露敏感信息](./unauthorized/seeyou_webmail.do_scan)
+
+**华夏erp**
+
+- [华夏erp getAllList敏感信息泄露](./unauthorized/huaxia_erp_scan)
+
 ## 免责声明
 
 由于传播、利用此文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。
