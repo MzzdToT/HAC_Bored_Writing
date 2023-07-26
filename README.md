@@ -8,6 +8,7 @@
 - [泛微e-Office CVE-2023-2648 任意文件上传](./Fileupload/cve-2023-2648)
 - [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
 - [畅捷通T+ QVD-2023-13612 sql注入](./Sqlinject/QVD-2023-13612)
+- [nginxWebUI_RCE](./RCE/nginxWebUI_rce)
 - [用友时空KSOA /com.sksoft.bill.ImageUpload文件上传](./Fileupload/KSOA_upload)
 - [Openfire CVE-2023-32315 未授权添加用户](./unauthorized/CVE-2023-32315)
 - [jmreport/qurestSql CVE-2023-1454 sql注入](./Sqlinject/CVE-2023-1454)
@@ -154,6 +155,10 @@
 #### 学习管理系统Chamilo
 
 - [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
+
+#### nginxWebUI
+
+- [nginxWebUI_RCE](./RCE/nginxWebUI_rce)
 
 #### 蓝海卓越计费管理系统
 
