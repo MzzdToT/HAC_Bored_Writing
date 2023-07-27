@@ -10,6 +10,7 @@
 - [金蝶云星空_Unserialize_rce](./RCE/Kingdee_erp_Unserialize_rce)
 - [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
 - [畅捷通T+ QVD-2023-13612 sql注入](./Sqlinject/QVD-2023-13612)
+- [H3C iMC_CVE-2023-34928_RCE](./RCE/CVE-2023-34928)
 - [nginxWebUI_RCE](./RCE/nginxWebUI_rce)
 - [用友时空KSOA /com.sksoft.bill.ImageUpload文件上传](./Fileupload/KSOA_upload)
 - [Openfire CVE-2023-32315 未授权添加用户](./unauthorized/CVE-2023-32315)
@@ -170,6 +171,10 @@
 #### 学习管理系统Chamilo
 
 - [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
+
+#### H3C
+
+- [H3C iMC_CVE-2023-34928_RCE](./RCE/CVE-2023-34928)
 
 #### nginxWebUI
 
