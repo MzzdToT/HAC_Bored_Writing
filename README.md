@@ -36,6 +36,7 @@
 - [泛微E-Office CNVD-2021-49104文件上传](./Fileupload/CNVD-2021-49104)
 - [致远oaCNVD-2021-01627文件上传](./Fileupload/seeyon-oa-exp)
 - [智慧校园管理系统 注册页面文件上传](./Fileupload/zhihuixiaoyuan_upload)
+- [狮子鱼cms wxapp.php文件上传](./Fileupload/shiziyu_upload)
 - [用友oa U8 test.jsp sql注入](./Sqlinject/yongyouU8_sql-main)
 
 
@@ -141,6 +142,10 @@
 #### 泛微
 
 - [泛微e-cology QVD-2023-5012 sql注入](./Sqlinject/QVD-2023-5012)
+
+#### 狮子鱼cms
+
+- [狮子鱼cms wxapp.php文件上传](./Fileupload/shiziyu_upload)
 
 #### 源天OA
 
