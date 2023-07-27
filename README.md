@@ -6,6 +6,8 @@
 
 - [泛微e-cology QVD-2023-5012 sql注入](./Sqlinject/QVD-2023-5012)
 - [泛微e-Office CVE-2023-2648 任意文件上传](./Fileupload/cve-2023-2648)
+- [用友NC Cloud_upload_rce](./RCE/Yongyou_NC_Cloud_upload_rce)
+- [金蝶云星空_Unserialize_rce](./RCE/Kingdee_erp_Unserialize_rce)
 - [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
 - [畅捷通T+ QVD-2023-13612 sql注入](./Sqlinject/QVD-2023-13612)
 - [nginxWebUI_RCE](./RCE/nginxWebUI_rce)
@@ -151,6 +153,14 @@
 ## RCE命令执行
 
 攻击者可以执行任意系统命令
+
+#### 用友NC Cloud
+
+- [用友NC Cloud_upload_rce](./RCE/Yongyou_NC_Cloud_upload_rce)
+
+#### 金蝶云星空
+
+- [金蝶云星空_Unserialize_rce](./RCE/Kingdee_erp_Unserialize_rce)
 
 #### 学习管理系统Chamilo
 
