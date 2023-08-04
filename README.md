@@ -21,6 +21,7 @@
 
 - [金山 V8 终端安全系统文件下载](./FileRead/jinshanv8_fileread)
 - [CmsEasy sql注入](./Sqlinject/CmsEasy_sql)
+- [用友U8-OA致远A6 getSessionList jsp信息泄露](./unauthorized/getSessionList_scan)
 - [Doccms keyword sql注入](./Sqlinject/Doccms-sql-injection)
 - [蓝海卓越计费管理系统 RCE](./RCE/lanhai_rce)
 
@@ -211,6 +212,7 @@
 **致远oa**
 
 - [致远oa webmail.do文件泄露敏感信息](./unauthorized/seeyou_webmail.do_scan)
+- [用友U8-OA致远A6 getSessionList jsp信息泄露](./unauthorized/getSessionList_scan)
 
 **华夏erp**
 
