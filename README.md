@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [通达oa CVE-2023-4166 sql注入](./Sqlinject/CVE-2023-4166)
 - [泛微e-cology QVD-2023-5012 sql注入](./Sqlinject/QVD-2023-5012)
 - [泛微e-Office CVE-2023-2648 任意文件上传](./Fileupload/cve-2023-2648)
 - [用友NC Cloud_upload_rce](./RCE/Yongyou_NC_Cloud_upload_rce)
@@ -120,6 +121,10 @@
 ## sql注入
 
 通过SQL注入漏洞构造SQL注入语句，对服务器端返回特定的错误信息来获取有利用价值的信息，甚至可篡改数据库中的内容并进行提权
+
+#### 通达oa
+
+- [通达oa CVE-2023-4166 sql注入](./Sqlinject/CVE-2023-4166)
 
 #### 畅捷通T+
 
