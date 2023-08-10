@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [深信服 应用交付管理系统 login_rce](./RCE/sangfor_login_rce)
 - [通达oa CVE-2023-4166 sql注入](./Sqlinject/CVE-2023-4166)
 - [泛微e-cology QVD-2023-5012 sql注入](./Sqlinject/QVD-2023-5012)
 - [泛微e-Office CVE-2023-2648 任意文件上传](./Fileupload/cve-2023-2648)
@@ -165,6 +166,10 @@
 ## RCE命令执行
 
 攻击者可以执行任意系统命令
+
+#### 深信服
+
+- [深信服 应用交付管理系统 login_rce](./RCE/sangfor_login_rce)
 
 #### 用友NC Cloud
 
