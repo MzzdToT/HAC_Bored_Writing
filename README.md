@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [PigCMS action_flashUpload文件上传](./Fileupload/PigCMS)
 - [用友GRP-U8 info.log信息泄露](./unauthorized/用友GRP-U8)
 - [大华智慧园区综合管理平台searchJson_sql注入](./Sqlinject/大华智慧园区综合管理平台searchJson)
 - [绿盟 SAS堡垒机 Exec 远程命令执行漏洞](./RCE/lvmeng-SAS-Exec_RCE)
@@ -105,6 +106,10 @@
 ## 文件上传
 
 可上传webshell，获取服务器权限
+
+#### PigCMS
+
+- [PigCMS action_flashUpload文件上传](./Fileupload/PigCMS)
 
 #### 锐捷
 
