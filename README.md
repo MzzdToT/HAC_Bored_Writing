@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [用友GRP-U8 info.log信息泄露](./unauthorized/用友GRP-U8)
 - [大华智慧园区综合管理平台searchJson_sql注入](./Sqlinject/大华智慧园区综合管理平台searchJson)
 - [绿盟 SAS堡垒机 Exec 远程命令执行漏洞](./RCE/lvmeng-SAS-Exec_RCE)
 - [锐捷 NBR 路由器 fileupload.php文件上传](./Fileupload/Ruijie-NBR)
@@ -230,6 +231,10 @@
 ## 未授权访问
 
 未授权就可访问指定资源
+
+#### 用友
+
+- [用友GRP-U8 info.log信息泄露](./unauthorized/用友GRP-U8)
 
 #### H5S CONSOLE
 
