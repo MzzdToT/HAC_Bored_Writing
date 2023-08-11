@@ -10,7 +10,7 @@
 - [通达oa CVE-2023-4166 sql注入](./Sqlinject/CVE-2023-4166)
 - [泛微e-cology QVD-2023-5012 sql注入](./Sqlinject/QVD-2023-5012)
 - [泛微e-Office CVE-2023-2648 任意文件上传](./Fileupload/cve-2023-2648)
-- [用友NC Cloud_upload_rce](./RCE/Yongyou_NC_Cloud_upload_rce)
+- [用友NC Cloud jsinvoke_upload_rce](./RCE/Yongyou_NC_Cloud_upload_rce)
 - [金蝶云星空_Unserialize_rce](./RCE/Kingdee_erp_Unserialize_rce)
 - [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
 - [畅捷通T+ QVD-2023-13612 sql注入](./Sqlinject/QVD-2023-13612)
@@ -183,7 +183,7 @@
 
 #### 用友NC Cloud
 
-- [用友NC Cloud_upload_rce](./RCE/Yongyou_NC_Cloud_upload_rce)
+- [用友NC Cloud jsinvoke_upload_rce](./RCE/Yongyou_NC_Cloud_upload_rce)
 
 #### 金蝶云星空
 
