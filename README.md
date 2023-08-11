@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [锐捷 NBR 路由器 fileupload.php文件上传](./Fileupload/Ruijie-NBR)
 - [蓝凌oa custom.jsp文件读取](./FileRead/lanling_fileread)
 - [深信服 应用交付管理系统 login_rce](./RCE/sangfor-login-rce)
 - [通达oa CVE-2023-4166 sql注入](./Sqlinject/CVE-2023-4166)
@@ -101,6 +102,10 @@
 ## 文件上传
 
 可上传webshell，获取服务器权限
+
+#### 锐捷
+
+- [锐捷 NBR 路由器 fileupload.php文件上传](./Fileupload/Ruijie-NBR)
 
 #### 致远oa
 
