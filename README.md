@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [大华智慧园区综合管理平台searchJson_sql注入](./Sqlinject/大华智慧园区综合管理平台searchJson)
 - [绿盟 SAS堡垒机 Exec 远程命令执行漏洞](./RCE/lvmeng-SAS-Exec_RCE)
 - [锐捷 NBR 路由器 fileupload.php文件上传](./Fileupload/Ruijie-NBR)
 - [蓝凌oa custom.jsp文件读取](./FileRead/lanling_fileread)
@@ -133,6 +134,10 @@
 ## sql注入
 
 通过SQL注入漏洞构造SQL注入语句，对服务器端返回特定的错误信息来获取有利用价值的信息，甚至可篡改数据库中的内容并进行提权
+
+#### 大华智慧园区综合管理平台
+
+- [大华智慧园区综合管理平台searchJson_sql注入](./Sqlinject/大华智慧园区综合管理平台searchJson)
 
 #### 通达oa
 
