@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [任我行 CRM SmsDataList sql注入](./Sqlinject/任我行crm)
 - [PigCMS action_flashUpload文件上传](./Fileupload/PigCMS)
 - [用友GRP-U8 info.log信息泄露](./unauthorized/用友GRP-U8)
 - [大华智慧园区综合管理平台searchJson_sql注入](./Sqlinject/大华智慧园区综合管理平台searchJson)
@@ -140,6 +141,10 @@
 ## sql注入
 
 通过SQL注入漏洞构造SQL注入语句，对服务器端返回特定的错误信息来获取有利用价值的信息，甚至可篡改数据库中的内容并进行提权
+
+#### 任我行
+
+- [任我行 CRM SmsDataList sql注入](./Sqlinject/任我行crm)
 
 #### 大华智慧园区综合管理平台
 
