@@ -8,6 +8,7 @@
 - [PigCMS action_flashUpload文件上传](./Fileupload/PigCMS)
 - [用友GRP-U8 info.log信息泄露](./unauthorized/用友GRP-U8)
 - [锐捷交换机 WEB 管理系统 EXCU_SHELL 信息泄露](./unauthorized/锐捷交换机WEB管理系统EXCU_SHELL)
+- [大华智慧园区user_getUserInfoByUserName.action密码读取](./unauthorized/大华智慧园区密码读取)
 - [大华智慧园区综合管理平台searchJson_sql注入](./Sqlinject/大华智慧园区综合管理平台searchJson)
 - [绿盟 SAS堡垒机 Exec 远程命令执行漏洞](./RCE/lvmeng-SAS-Exec_RCE)
 - [锐捷 NBR 路由器 fileupload.php文件上传](./Fileupload/Ruijie-NBR)
@@ -242,6 +243,10 @@
 ## 未授权访问
 
 未授权就可访问指定资源
+
+#### 大华智慧园区
+
+- [大华智慧园区user_getUserInfoByUserName.action密码读取](./unauthorized/大华智慧园区密码读取)
 
 #### 锐捷
 
