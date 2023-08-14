@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [Panabit sy_addmount.php_rce](./RCE/Panabit)
 - [任我行 CRM SmsDataList sql注入](./Sqlinject/任我行crm)
 - [PigCMS action_flashUpload文件上传](./Fileupload/PigCMS)
 - [用友GRP-U8 info.log信息泄露](./unauthorized/用友GRP-U8)
@@ -195,6 +196,10 @@
 ## RCE命令执行
 
 攻击者可以执行任意系统命令
+
+#### Panabit
+
+- [Panabit sy_addmount.php_rce](./RCE/Panabit)
 
 #### 绿盟
 
