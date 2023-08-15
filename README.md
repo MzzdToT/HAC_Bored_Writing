@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [新开普智慧校园系统_service.action_rce](./RCE/新开普智慧校园系统)
 - [Metabase_CVE-2023-38646_rce](./RCE/Metabase_CVE-2023-38646)
 - [Panabit sy_addmount.php_rce](./RCE/Panabit)
 - [任我行 CRM SmsDataList sql注入](./Sqlinject/任我行crm)
@@ -197,6 +198,10 @@
 ## RCE命令执行
 
 攻击者可以执行任意系统命令
+
+#### 新开普
+
+- [新开普智慧校园系统_service.action_rce](./RCE/新开普智慧校园系统)
 
 #### Metabase
 
