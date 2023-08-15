@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [Metabase_CVE-2023-38646_rce](./RCE/Metabase_CVE-2023-38646)
 - [Panabit sy_addmount.php_rce](./RCE/Panabit)
 - [任我行 CRM SmsDataList sql注入](./Sqlinject/任我行crm)
 - [PigCMS action_flashUpload文件上传](./Fileupload/PigCMS)
@@ -196,6 +197,10 @@
 ## RCE命令执行
 
 攻击者可以执行任意系统命令
+
+#### Metabase
+
+- [Metabase_CVE-2023-38646_rce](./RCE/Metabase_CVE-2023-38646)
 
 #### Panabit
 
