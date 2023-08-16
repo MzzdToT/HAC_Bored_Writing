@@ -11,10 +11,10 @@
 - [PigCMS action_flashUpload文件上传](./Fileupload/PigCMS)
 - [用友GRP-U8 info.log信息泄露](./unauthorized/用友GRP-U8)
 - [锐捷交换机 WEB 管理系统 EXCU_SHELL 信息泄露](./unauthorized/锐捷交换机WEB管理系统EXCU_SHELL)
+- [锐捷 NBR 路由器 fileupload.php文件上传](./Fileupload/Ruijie-NBR)
 - [大华智慧园区user_getUserInfoByUserName.action密码读取](./unauthorized/大华智慧园区密码读取)
 - [大华智慧园区综合管理平台searchJson_sql注入](./Sqlinject/大华智慧园区综合管理平台searchJson)
 - [绿盟 SAS堡垒机 Exec 远程命令执行漏洞](./RCE/lvmeng-SAS-Exec_RCE)
-- [锐捷 NBR 路由器 fileupload.php文件上传](./Fileupload/Ruijie-NBR)
 - [蓝凌oa custom.jsp文件读取](./FileRead/lanling_fileread)
 - [深信服 应用交付管理系统 login_rce](./RCE/sangfor-login-rce)
 - [通达oa CVE-2023-4166 sql注入](./Sqlinject/CVE-2023-4166)
@@ -22,6 +22,7 @@
 - [泛微e-Office CVE-2023-2648 任意文件上传](./Fileupload/cve-2023-2648)
 - [用友NC Cloud jsinvoke_upload_rce](./RCE/Yongyou_NC_Cloud_upload_rce)
 - [金蝶云星空_Unserialize_rce](./RCE/Kingdee_erp_Unserialize_rce)
+- [金蝶云星空CommonFileserver文件读取](./FileRead/Kingdee-erp_fileread)
 - [Chamilo_CVE-2023-34960_RCE](./RCE/Chamilo__CVE-2023-34960_RCE)
 - [畅捷通T+ QVD-2023-13612 sql注入](./Sqlinject/QVD-2023-13612)
 - [H3C iMC_CVE-2023-34928_RCE](./RCE/CVE-2023-34928)
@@ -72,6 +73,10 @@
 ## 文件读取
 
 任意文件读取，可读取服务器文件内容
+
+#### 金蝶云星空
+
+- [金蝶云星空CommonFileserver文件读取](./FileRead/Kingdee-erp_fileread)
 
 #### 蓝凌oa
 
