@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [LiveBos ShowImage.do文件读取](./FileRead/LiveBos_fileread)
 - [新开普智慧校园系统_service.action_rce](./RCE/新开普智慧校园系统)
 - [Metabase_CVE-2023-38646_rce](./RCE/Metabase_CVE-2023-38646)
 - [Panabit sy_addmount.php_rce](./RCE/Panabit)
@@ -73,6 +74,10 @@
 ## 文件读取
 
 任意文件读取，可读取服务器文件内容
+
+#### LiveBos
+
+- [LiveBos ShowImage.do文件读取](./FileRead/LiveBos_fileread)
 
 #### 金蝶云星空
 
