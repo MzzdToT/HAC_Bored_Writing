@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [企望制造 ERP comboxstore.action_rce](./RCE/企望制造ERP)
 - [用友时空 KSOA sql注入](./Sqlinject/用友时空KSOA)
 - [万户协同办公平台未授权访问漏洞](./unauthorized/万户协同办公平台)
 - [LiveBos ShowImage.do文件读取](./FileRead/LiveBos_fileread)
@@ -211,6 +212,10 @@
 ## RCE命令执行
 
 攻击者可以执行任意系统命令
+
+#### 企望制造 ERP
+
+- [企望制造 ERP comboxstore.action_rce](./RCE/企望制造ERP)
 
 #### 新开普
 
