@@ -41,7 +41,7 @@ def check_vuln(url):
 		headers = {'User-Agent': get_ua(),
       }
 		res = requests.get(url2,headers=headers,allow_redirects=False,timeout=10,verify=False)
-		if res.status_code == 200 and "success" in res.text:
+		if res.status_code == 200 and "success" in res.text and "userList" in res.text:
 			print("\033[32m[+]{} is vulnerable\033[0m".format(url1))
 			wirte_targets(url2,"vuln.txt")
 		else:
