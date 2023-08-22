@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [万户协同办公平台未授权访问漏洞](./unauthorized/万户协同办公平台)
 - [LiveBos ShowImage.do文件读取](./FileRead/LiveBos_fileread)
 - [新开普智慧校园系统_service.action_rce](./RCE/新开普智慧校园系统)
 - [Metabase_CVE-2023-38646_rce](./RCE/Metabase_CVE-2023-38646)
@@ -268,6 +269,10 @@
 ## 未授权访问
 
 未授权就可访问指定资源
+
+#### 万户协同办公平台
+
+- [万户协同办公平台未授权访问漏洞](./unauthorized/万户协同办公平台)
 
 #### 大华智慧园区
 
