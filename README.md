@@ -203,7 +203,7 @@
 
 - [源天OA GetDataAction sql注入](./Sqlinject/yuantian_sql)
 
-#### 用友oa U8
+#### 用友
 
 - [用友时空 KSOA sql注入](./Sqlinject/用友时空KSOA)
 - [用友oa U8 test.jsp sql注入](./Sqlinject/yongyouU8_sql-main)
