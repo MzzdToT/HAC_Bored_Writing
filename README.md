@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [用友时空 KSOA sql注入](./Sqlinject/用友时空KSOA)
 - [万户协同办公平台未授权访问漏洞](./unauthorized/万户协同办公平台)
 - [LiveBos ShowImage.do文件读取](./FileRead/LiveBos_fileread)
 - [新开普智慧校园系统_service.action_rce](./RCE/新开普智慧校园系统)
@@ -204,6 +205,7 @@
 
 #### 用友oa U8
 
+- [用友时空 KSOA sql注入](./Sqlinject/用友时空KSOA)
 - [用友oa U8 test.jsp sql注入](./Sqlinject/yongyouU8_sql-main)
 
 ## RCE命令执行
