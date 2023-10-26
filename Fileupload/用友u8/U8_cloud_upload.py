@@ -79,7 +79,7 @@ def multithreading(url_list, pools=5):
 
 if __name__ == '__main__':
 
-	print("\nRuijie-NBR_fileupload scan by when\n")
+	print("\n用友u8_cloud_fileupload scan by when\n")
 
 	arg=ArgumentParser(description='check_vulnerabilities By when')
 	arg.add_argument("-u",
