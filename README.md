@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [用友U8-Cloud upload文件上传](./Fileupload/用友u8)
 - [企望制造 ERP comboxstore.action_rce](./RCE/企望制造ERP)
 - [用友时空 KSOA sql注入](./Sqlinject/用友时空KSOA)
 - [万户协同办公平台未授权访问漏洞](./unauthorized/万户协同办公平台)
@@ -126,6 +127,7 @@
 
 可上传webshell，获取服务器权限
 
+
 #### PigCMS
 
 - [PigCMS action_flashUpload文件上传](./Fileupload/PigCMS)
@@ -140,6 +142,7 @@
 
 #### 用友时空KSOA
 
+- [用友U8-Cloud upload文件上传](./Fileupload/用友u8)
 - [用友时空KSOA /com.sksoft.bill.ImageUpload文件上传](./Fileupload/KSOA_upload)
 
 #### 泛微
