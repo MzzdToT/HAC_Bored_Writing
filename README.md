@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [蓝凌EIS saveIm文件上传](./Fileupload/蓝凌EIS)
 - [用友U8-Cloud upload文件上传](./Fileupload/用友u8)
 - [企望制造 ERP comboxstore.action_rce](./RCE/企望制造ERP)
 - [用友时空 KSOA sql注入](./Sqlinject/用友时空KSOA)
@@ -127,6 +128,9 @@
 
 可上传webshell，获取服务器权限
 
+#### 蓝凌
+
+- [蓝凌EIS saveIm文件上传](./Fileupload/蓝凌EIS)
 
 #### PigCMS
 
