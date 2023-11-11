@@ -317,6 +317,7 @@
 **华夏erp**
 
 - [华夏erp getAllList敏感信息泄露](./unauthorized/huaxia_erp_scan)
+- [华夏erp QVD-2023-32275敏感信息泄露](./unauthorized/QVD-2023-32275)
 
 **Jupyter-Notebook**
 
