@@ -4,6 +4,7 @@
 
 ## 2023
 
+- [速达软件 文件上传](./Fileupload/suda)
 - [华夏erp QVD-2023-32275敏感信息泄露](./unauthorized/QVD-2023-32275)
 - [蓝凌EIS saveIm文件上传](./Fileupload/蓝凌EIS)
 - [用友U8-Cloud upload文件上传](./Fileupload/用友u8)
@@ -128,6 +129,10 @@
 ## 文件上传
 
 可上传webshell，获取服务器权限
+
+#### 速达
+
+- [速达软件 文件上传](./Fileupload/suda)
 
 #### 蓝凌
 
